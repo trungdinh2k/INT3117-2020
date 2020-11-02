@@ -1,0 +1,3 @@
+# 2.
+
+- Trong chương 5, phần 5.5 BIBLIOGRAPHIC NOTES, [Andrews et al., 2006] đề xuất mối tương quan thuận chặt chẽ giữa điểm đột biến của bộ thử nghiệm và mức độ mà bộ thử nghiệm đó phát hiện ra lỗi thực tế. Just et al. [Just et al., 2014] đã xác nhận những đề xuất này bằng cách đầu tiên chỉ ra mối quan hệ chặt chẽ giữa mức độ hài lòng của phạm vi bảo hiểm và phát hiện lỗi, sau đó đi xa hơn nữa bằng cách cho thấy rằng việc chuyển từ vùng phủ sóng của nút (câu lệnh) sang vùng phủ cạnh (nhánh) đã tăng khả năng phát hiện lỗi, và chuyển từ vùng phủ sóng cạnh sang vùng phủ sóng đột biến đã tăng khả năng phát hiện lỗi nhiều hơn.
